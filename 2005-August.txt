@@ -1,0 +1,18 @@
+From vale at rodarmisten.de  Sat Aug 27 14:15:02 2005
+From: vale at rodarmisten.de (Valentin Dieckmann)
+Date: Sat, 27 Aug 2005 14:15:02 +0200
+Subject: [ircbp-general] Commandlist
+Message-ID: <43105946.1010604@rodarmisten.de>
+
+Hello,
+
+I want to use IRCBP in future but - unfortunately - there is no 
+documentation or command list.
+Does anybody know some helpful commands and - at least - how to password 
+protect my IRCBP from being controlled by other users.
+
+Signing
+
+Valentin
+
+
